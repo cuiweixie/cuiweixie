@@ -2,7 +2,7 @@
 
 If you want to contact me, my email: 523516579@qq.com. 
 
-My Work on opensource project, here is a summary.
+Here is a summary about my work on opensource .
 
 ## As the contributor
 
