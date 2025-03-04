@@ -8,13 +8,15 @@ Here is a summary about my work on opensource .
 
 ### [go](https://github.com/golang/go)
 
-### [openresty/lua-gninx-module](https://github.com/openresty/lua-nginx-module)
-
-### [openresty/lua-resty-core](https://github.com/openresty/lua-resty-core)
-
 ### [dlv](https://github.com/go-delve/delve)
 
 ### [go-ethereum](https://github.com/ethereum/go-ethereum)
+
+### [optimism](https://github.com/ethereum-optimism/optimism)
+
+### [cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
+
+### [evmos](https://github.com/evmos/evmos)
 
 ## as creator 
 
