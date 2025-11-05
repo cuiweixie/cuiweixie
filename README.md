@@ -2,7 +2,9 @@
 
 If you want to contact me, my email: 523516579@qq.com. 
 
-Here is a summary about my work on opensource .
+Here is a summary about my work on opensource.
+
+<img src="https://algora.io/og/user/cuiweixie" />
 
 ## As the contributor
 
